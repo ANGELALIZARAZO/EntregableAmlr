@@ -1,0 +1,9 @@
+.producto {
+  text-align: justify;
+  color: rgb(15, 7, 43);
+}
+
+.producto button {
+  border-color: rgb(1, 1, 18);
+  color: rgb(1, 11, 11);
+}
